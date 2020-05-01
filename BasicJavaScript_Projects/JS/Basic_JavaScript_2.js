@@ -11,3 +11,12 @@ function myTogether()
     sentence += " a bit harder than I imagined!";
     document.getElementById("JoinTogether").innerHTML=sentence;
 }
+ 
+
+
+function myChallenge()
+{
+    var phrase = "Who want's to be a millionaire?";
+    phrase += " Me! I want to be a MILLIONAIRE!"
+    document.getElementById("phraseTogether").innerHTML=phrase;
+}
